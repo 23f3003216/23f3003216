@@ -17,6 +17,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://23f3003216.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=githubpages&logoColor=white" height="40"/>
+  </a>
+</p>
+
 ### Hi there 👋 I'm Hiya Syal  
 - 🎓 Data Science & Programming Student, IIT Madras  
 - 💻 Web Developer | Machine Learning Enthusiast | Data Scientist  
