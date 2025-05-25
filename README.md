@@ -1,16 +1,113 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20I’m%20Hiya%20Syal%20🧠&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-<!--
-**23f3003216/23f3003216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/hiya-syal-b251b024b/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/hiyasyal/">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/23f3003216">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="40"/>
+  </a>
+  <a href="https://www.kaggle.com/hiya23f3003216">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" height="40"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### Hi there 👋 I'm Hiya Syal  
+- 🎓 Data Science & Programming Student, IIT Madras  
+- 💻 Web Developer | Machine Learning Enthusiast | Data Scientist  
+- 📫 Reach me: [hiyasyal01@gmail.com](mailto:hiyasyal01@gmail.com)  
+- 🌱 Currently exploring advanced ML algorithms and programming 
+- 💬 Ask me about Python, Flask, Data Science, Machine Learning, and Web Development  
+- 🔭 Open to collaboration & internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Passionate about using data and code to unlock insights and build useful applications. When I’m not coding, I enjoy reading about AI advancements and exploring new tech tools. Always eager to collaborate and learn!
+
+## Goals
+
+- Deepen my expertise in Machine Learning and AI  
+- Build scalable, production-ready web applications  
+- Contribute to open source projects in Data Science and Web Dev
+
+## Education
+  - Bachelors in Data Science and Applications, IIT Madras
+
+## Certifications
+  - NPTEL: Cloud Computing
+  - NPTEL: Internet of Things
+  - HackerRank: Basic SQL
+
+## Skills & Technologies
+
+- **Programming Languages:** Python, JavaScript, SQL, Java  
+- **Web Development:** Flask, Django, React, Bootstrap, REST APIs  
+- **Machine Learning & Data Science:** Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools & Platforms:** Git, GitHub, Kaggle, Jupyter Notebooks, Docker
+
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+</p>
+
+## Internships & Work Experience
+
+- **Full Stack Developer**, Flipside Communications Pvt Ltd (6 months)  
+  Worked on frontend & backend development, API integration, and database management.
+
+- **Website Development Intern**, Indian.Community (6 months)  
+  Contributed to live web projects in a collaborative team environment.
+
+## Projects
+
+- [Influencer Engagement & Sponsorship Coordination Platform](https://github.com/23f3003216/influencer-engagement-and-sponsorship-coordination-platform)  
+  Developed using Flask, SQLAlchemy, WTForms, Flask-Login, and more.
+
+- [Startup Funding Platform](https://github.com/23f3003216/startup-funding-platform)  
+  A web app connecting investors and startups, built with Flask and RESTful APIs.
+
+- [Household Services Application](https://github.com/23f3003216/household_services_project)  
+  Multi-user app with role-based access, caching with Redis, batch jobs using Celery.
+
+- [Business Development Analytics Project](https://github.com/23f3003216/business_development_project)  
+  Sales data analysis for retail electronics shop using Excel and pivot tables.
+
+- [llm-automation-agent](https://github.com/23f3003216/llm-automation-agent)  
+  Python-based automation agent with Docker support.
+
+- [System Threat Forecaster](https://www.kaggle.com/code/hiya23f3003216/23f3003216-notebook-t12025)  
+  The goal of this competition is to predict a system’s probability of getting infected by various families of malware, based on different system properties.  
+  The telemetry data was generated by threat reports collected from antivirus software.
+
+
+
+## Connect with me
+
+[![Gmail](https://img.shields.io/badge/Email-hiyasyal01@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiyasyal01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HiyaSyal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/HiyaSyal)
+[![LeetCode](https://img.shields.io/badge/LeetCode-HiyaSyal-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/HiyaSyal)
+
+---
+
+## Let's Connect!
+
+Feel free to reach out for collaborations, internships, or just to say hi!
+
+---
+
+<p align="center">  
+Made with ❤️ by Hiya Syal  
+</p>
+
